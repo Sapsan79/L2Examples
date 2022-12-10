@@ -1,0 +1,15 @@
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\bin\Debug\net7.0\Example008_introMethod.exe
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\bin\Debug\net7.0\Example008_introMethod.deps.json
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\bin\Debug\net7.0\Example008_introMethod.runtimeconfig.json
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\bin\Debug\net7.0\Example008_introMethod.dll
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\bin\Debug\net7.0\Example008_introMethod.pdb
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\Example008_introMethod.csproj.AssemblyReference.cache
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\Example008_introMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\Example008_introMethod.AssemblyInfoInputs.cache
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\Example008_introMethod.AssemblyInfo.cs
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\Example008_introMethod.csproj.CoreCompileInputs.cache
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\Example008_introMethod.dll
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\refint\Example008_introMethod.dll
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\Example008_introMethod.pdb
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\Example008_introMethod.genruntimeconfig.cache
+D:\Oleg\GeekBrains\3. programmingLanguages\Lesson\Ур2.Знак_с_функц_и_массив\L2Examples\Example008_introMethod\obj\Debug\net7.0\ref\Example008_introMethod.dll
